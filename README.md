@@ -1,6 +1,6 @@
 # OOP-Case-Of-Akbank-Web3-Practicum
 
-It ıs coded for Akbank's web3 practicum. 
+It is coded for Akbank's web3 practicum. 
 
 If you want to improve yourself in OOP(especially in js), this case is very efficient. 
 
